@@ -1,7 +1,7 @@
 # my_sandbox_ML-1M
 Code for Movielen-1m Dataset.
 
-This is a short description of my code. For some reason, it is not a github specification. I'm sorry this is the first time I've written a readme file and some of the terminology aspects may not be expressed.
+# This is a short description of my code. For some reason, it is not a github specification. I'm sorry this is the first time I've written a readme file and some of the terminology aspects may not be expressed.
 I think we can start by looking at the readme file of nickmvincent/surprise_sandbox https://github.com/nickmvincent/surprise_sandbox.
 
 I just added the preprocessed Book-Crossing dataset based on their code. It should be noted in advance that in order to save AWS EC2 storage costs, I ran separate code with Movielen-1M and Book-Crossing data, i.e., two datasets correspond to two copies of the code. I made only minimal code changes to adapt to the Book-Crossing dataset, which is not fine, mature, or professional. This is a good reflection of my current level.
