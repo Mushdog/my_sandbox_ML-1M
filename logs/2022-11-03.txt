@@ -1,0 +1,57 @@
+2022-11-03 02:14:23.129410
+Namespace(indices=[1, 10], grouping='sample', sample_sizes='3624', num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-03 02:27:15.880737
+Total runtime was 0:12:52.751327
+2022-11-03 02:27:57.711388
+Namespace(indices=[1, 10], grouping='sample', sample_sizes='4228', num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-03 02:39:43.405954
+Total runtime was 0:11:45.694566
+2022-11-03 02:40:00.991595
+Namespace(indices=[1, 10], grouping='sample', sample_sizes='4832', num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-03 02:50:33.596044
+Total runtime was 0:10:32.604449
+2022-11-03 02:50:52.431146
+Namespace(indices=[1, 10], grouping='sample', sample_sizes='5436', num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-03 03:00:24.671720
+Total runtime was 0:09:32.240574
+2022-11-03 03:02:41.703585
+Namespace(indices=[1, 10], grouping='sample', sample_sizes='5980', num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-03 03:11:18.040888
+Total runtime was 0:08:36.337303
+2022-11-03 03:13:28.523830
+Namespace(indices=[1, 10], grouping='gender', sample_sizes=None, num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.7, ratingfrac=1.0)
+
+Finished at time 2022-11-03 03:40:09.981118
+Total runtime was 0:26:41.457288
+2022-11-03 04:02:56.602667
+Namespace(indices=[1, 10], grouping='age', sample_sizes=None, num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.3, ratingfrac=1.0)
+
+2022-11-03 04:03:48.862246
+Namespace(indices=[1, 10], grouping='age', sample_sizes=None, num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.7, ratingfrac=1.0)
+
+Finished at time 2022-11-03 05:40:26.110876
+Total runtime was 1:36:37.248630
+2022-11-03 05:58:46.439928
+Namespace(indices=[1, 10], grouping='power', sample_sizes=None, num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.7, ratingfrac=1.0)
+
+Finished at time 2022-11-03 06:30:06.346456
+Total runtime was 0:31:19.906528
+2022-11-03 06:33:41.800719
+Namespace(indices=[1, 10], grouping='occupation', sample_sizes=None, num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.7, ratingfrac=1.0)
+
+Finished at time 2022-11-03 11:28:46.013559
+Total runtime was 4:55:04.212840
+2022-11-03 11:34:57.496887
+Namespace(indices=[1, 10], grouping='state', sample_sizes=None, num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.7, ratingfrac=1.0)
+
+2022-11-03 17:49:51.834233
+Namespace(indices=[1, 10], grouping='state', sample_sizes=None, num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.7, ratingfrac=1.0)
+
+2022-11-03 21:06:13.109882
+Namespace(indices=[1, 10], grouping='state', sample_sizes=None, num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.7, ratingfrac=1.0)
+

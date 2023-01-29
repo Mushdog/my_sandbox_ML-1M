@@ -1,0 +1,8 @@
+2022-11-04 02:22:48.141275
+Namespace(indices=[1, 10], grouping='state', sample_sizes=None, num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.7, ratingfrac=1.0)
+
+Finished at time 2022-11-04 08:37:29.616791
+Total runtime was 6:14:41.475516
+2022-11-04 08:45:40.531240
+Namespace(indices=[1, 10], grouping='genre', sample_sizes=None, num_samples=10, dataset='ml-1m', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.7, ratingfrac=1.0)
+
